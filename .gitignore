@@ -1,4 +1,5 @@
 /lib/config.json
 /makefile
 /lib/githubthing.js
+/lib/checkbox.js
 /node_modules
