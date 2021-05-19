@@ -4,7 +4,7 @@
   "description": "A tool made to find anything that's searched.",
   "main": "main.js",
   "scripts": {
-    "test": "npmsearcher"
+    "test": "node main.js"
   },
   "keywords": [
     "cli",
@@ -13,12 +13,11 @@
   "author": "dark279",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3",
+    "figlet": "^1.5.0",
     "github-search-api": "0.0.3",
     "inquirer": "^8.0.0",
     "npm": "^7.13.0",
     "octonode": "^0.10.2",
-    "open": "^8.0.8",
     "simple-git": "^2.38.1"
   }
 }
