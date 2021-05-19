@@ -1,2 +1,4 @@
 /lib/config.json
 /makefile
+/lib/githubthing.js
+/node_modules
