@@ -1,4 +1,4 @@
-# NPMSEARCHER
+# GITNPM
 its a tool that.. you can search github and npm with!
 you run it. choose ur query. choose query size and a site.
 ## ALSO 
